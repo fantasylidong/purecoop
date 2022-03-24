@@ -8,6 +8,31 @@
 	"2"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}本服服主 真红"
+		"text"		"{LIGHTGREEN}当前模式:{GREEN}绝境求生24特{LIGHTGREEN}，刷新模式:{GREEN}引擎刷特"
+	}
+	"3"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}可以输入!slots来调整服务器位置，新的位置只能用来观战，最大生还者上限4人"
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}本服摆烂OP 东，欢迎加入组服务器qq群：484690502 寻找小伙伴一起开黑"
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}输入!dance跳跳舞解解压"
+	}
+	"6"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}输入!ch !tagslist选择自己已获得的称号佩戴，如果称号未正确加载输入!cz重新载入称号"
+	}
+	"7"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}本服务器有和Anne服务器类似的商店系统"
 	}
 }
