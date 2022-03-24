@@ -1,0 +1,13 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}[本章节地图]: {GREEN}{CURRENTMAP} \n{LIGHTGREEN}[服务器时间]: {GREEN}{TIME24} - {DATE}"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}本服服主 真红"
+	}
+}
